@@ -2,6 +2,8 @@
 
 This project is a comprehensive Employee Machine Management system developed using Enterprise JavaBeans (EJB) and JavaServer Faces (JSF). It provides a robust solution for managing employees and their associated machines with a rich web-based user interface.
 
+https://github.com/Boupouchi/EmployeeMachineManagementEJB-JSF/assets/81436882/4eed4ebd-4b39-454d-979b-e263d20cf640
+
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
